@@ -42,7 +42,7 @@ class MainActivity : ComponentActivity() {
 
             var atualhora = formatardata(atual?.first)
             rodape.text =
-                "\" Dados fornecidos pela Open-Meteo \\\\nÚltima atualização: $atualhora"
+                "\" Dados fornecidos pela Open-Meteo \n Última atualização: $atualhora"
             var maiorStatus = medidorSolar(maior?.second)
             if (atual?.second == null || atual.second == 0.0) {
                 textoAtual = "Atual : Esta de noite"
