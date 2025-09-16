@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">APS_Radaição_Solar</string>
+    <string name="atualizaçaodeDados"> " Dados fornecidos pela Open-Meteo Air Quality API\\nÚltima atualização:</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores principais -->
+    <color name="azul_principal">#2196F3</color>
+    <color name="azul_escuro">#1976D2</color>
+    <color name="azul_claro">#E3F2FD</color>
+    <color name="azul_medio">#64B5F6</color>
+
+    <!-- Cores secundárias -->
+    <color name="roxo_principal">#9C27B0</color>
+    <color name="roxo_escuro">#7B1FA2</color>
+    <color name="roxo_claro">#F3E5F5</color>
+    <color name="roxo_medio">#BA68C8</color>
+
+    <!-- Cores de estado -->
+    <color name="verde_sucesso">#4CAF50</color>
+    <color name="verde_claro">#E8F5E8</color>
+    <color name="amarelo_aviso">#FF9800</color>
+    <color name="vermelho_erro">#F44336</color>
+
+    <!-- Cores neutras -->
+    <color name="branco">#FFFFFF</color>
+    <color name="branco_transparente">#B3FFFFFF</color>
+    <color name="cinza_claro">#F5F5F5</color>
+    <color name="cinza_medio">#E0E0E0</color>
+    <color name="cinza_escuro">#757575</color>
+
+    <!-- Cores de texto -->
+    <color name="texto_principal">#212121</color>
+    <color name="texto_secundario">#757575</color>
+    <color name="texto_claro">#FFFFFF</color>
+
+    <!-- Gradientes -->
+    <color name="gradiente_inicio">#667eea</color>
+    <color name="gradiente_fim">#764ba2</color>
+</resources>
