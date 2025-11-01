@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="?android:attr/selectableItemBackground">
+
+    <TextView
+        android:id="@+id/texto_nome_cidade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nome da Cidade"
+        android:textColor="#212121"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:ellipsize="end"
+        android:maxLines="1" />
+
+    <TextView
+        android:id="@+id/texto_localizacao_cidade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Estado, País"
+        android:textColor="#757575"
+        android:textSize="13sp"
+        android:layout_marginTop="4dp"
+        android:ellipsize="end"
+        android:maxLines="1" />
+
+</LinearLayout>
